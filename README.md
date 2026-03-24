@@ -1,5 +1,8 @@
 # net-trace
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 Network debugging CLI: DNS resolution, SSL analysis, HTTP trace timing breakdown.
 
 ## Features
